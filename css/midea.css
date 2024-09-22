@@ -1,0 +1,352 @@
+/* 576 size display start  */
+@media (min-width: 576px) {
+  @keyframes skilin {
+    from {
+      width: 0;
+    }
+
+    to {
+      width: 85%;
+    }
+  }
+
+  @keyframes skilins {
+    from {
+      width: 0;
+    }
+
+    to {
+      width: 95%;
+    }
+  }
+
+  @keyframes skilinn {
+    from {
+      width: 0;
+    }
+
+    to {
+      width: 95%;
+    }
+  }
+
+  @keyframes skiline {
+    from {
+      width: 0;
+    }
+
+    to {
+      width: 98%;
+    }
+  }
+
+  .messagebox input {
+    width: 400px;
+
+  }
+
+  .navbar-toggler-icon {
+    color: #fff !important;
+  }
+
+  .iconthree {
+    right: 38px;
+  }
+
+  .bannertext {
+    text-align: center;
+  }
+
+  .bannertext p {
+    padding-right: 0px;
+  }
+
+  .bannerbtn {
+    margin: 0 auto;
+  }
+
+  .icontwo {
+    right: 440px;
+  }
+
+  .skillparttitle p {
+    padding: 0 60px;
+  }
+
+  .myworktitle p {
+    padding: 0 42px;
+  }
+
+  .slick-slider {
+    margin-left: 30px;
+  }
+
+  .experienceparttitle p {
+    padding: 0 100px;
+    margin-bottom: 50px;
+  }
+
+  .blogtitle p {
+    padding: 0 100px;
+  }
+
+  .portfolioparttitle p {
+    padding: 0 87px;
+  }
+  /* .mymenu{
+    background: #000000cf;
+    padding: 0px 20px;
+    width: 300px;
+    border-radius: 10px;
+  } */
+}
+
+/* 576 size display end  */
+
+/* 575 size display start  */
+@media (max-width: 575.98px) {
+  .myicon {
+    margin-left: 80px;
+  }
+  @keyframes skilin {
+    from {
+      width: 0;
+    }
+
+    to {
+      width: 80px;
+    }
+  }
+
+  @keyframes skilins {
+    from {
+      width: 0;
+    }
+
+    to {
+      width: 90px;
+    }
+  }
+
+  @keyframes skilinn {
+    from {
+      width: 0;
+    }
+
+    to {
+      width: 90px;
+    }
+  }
+
+  @keyframes skiline {
+    from {
+      width: 0;
+    }
+
+    to {
+      width: 92px;
+    }
+  }
+
+  .messagebox input {
+    width: 400px;
+
+  }
+
+  .navbar-toggler-icon {
+    color: #fff !important;
+  }
+
+  .iconthree {
+    right: 38px;
+  }
+
+  .bannertext {
+    text-align: center;
+  }
+
+  .bannertext p {
+    padding-right: 0px;
+  }
+
+  .bannerbtn {
+    margin: 0 auto;
+  }
+
+  .icontwo {
+    right: 480px;
+  }
+
+  .iconone {
+    left: 50px;
+  }
+
+  .skillparttitle p {
+    padding: 0 60px;
+  }
+
+  .myworktitle p {
+    padding: 0 42px;
+  }
+
+  .slick-slider {
+    margin-left: 30px;
+  }
+
+  .experienceparttitle p {
+    padding: 0 100px;
+    margin-bottom: 50px;
+  }
+
+  .blogtitle p {
+    padding: 0 157px;
+  }
+
+  .portfolioparttitle p {
+    padding: 0 110px;
+  }
+
+  .myicon {
+    margin-left: -80px;
+  }
+
+  .circlesiximg img {
+    position: absolute;
+    left: 28px;
+  }
+
+  .customerone p {
+    padding: 0 50px;
+  }
+
+  .portfolio button {
+    margin-top: 5px;
+  }
+  .circleone {
+    position: absolute;
+    top: -18px;
+    left: 500px;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    border: 5px solid green;
+    animation: circleone 1s infinite alternate;
+  }
+  .circlefourimg img {
+    position: absolute;
+    top: 80px;
+    right: 80px;
+    border-radius: 50%;
+    animation: circlefourimg 1s infinite alternate;
+  }
+  .circlethree {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    border: 7px solid yellow;
+    position: absolute;
+    top: -50px;
+    right: 10px;
+    animation: circlethree 1s infinite alternate;
+  }
+  .circlefive {
+    width: 60px;
+    height: 80px;
+    border-radius: 50%;
+    border: 7px solid green;
+    position: absolute;
+    top: -50px;
+    left: 10px;
+    animation: circlefive 1s infinite alternate;
+  }
+}
+
+/* 575 size display end  */
+
+/* 375 size display start  */
+@media (max-width: 375.98px) {
+  .myicon {
+    margin-left: 0px;
+  }
+  .customerone p {
+    padding: 0 10px;
+  }
+
+  .experienceparttitle p {
+    padding: 0 10px;
+  }
+
+  .circlefourimg img {
+    position: absolute;
+    top: 80px;
+    right: 50px;
+    border-radius: 50%;
+    animation: circlefourimg 1s infinite alternate;
+  }
+
+  .circlefive {
+    width: 60px;
+    height: 80px;
+    border-radius: 50%;
+    border: 7px solid green;
+    position: absolute;
+    top: -50px;
+    left: 0px;
+    animation: circlefive 1s infinite alternate;
+  }
+
+  .circlethree {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    border: 7px solid yellow;
+    position: absolute;
+    top: -50px;
+    right: 0px;
+    animation: circlethree 1s infinite alternate;
+  }
+
+  .blogtitle p {
+    font-size: 14px;
+  }
+
+  .myserviceeone i {
+    padding: 15px 130px;
+  }
+
+  .portfolioparttitle p {
+    padding: 0 10px;
+  }
+
+  .emailpart {
+    padding: 100px 10px;
+  }
+.mymenu{
+  background: #000000cf;
+  padding: 0px 20px;
+  width: 300px;
+  border-radius: 10px;
+}
+.collapsed{
+  margin-left: -20px;
+}
+.iconone {
+	left: -10px;
+  top: 200px;
+}
+.circleone {
+	position: absolute;
+	top: -18px;
+	left: 294px;
+	width: 70px;
+	height: 70px;
+	border-radius: 50%;
+	border: 5px solid green;
+	animation: circleone 1s infinite alternate;
+}
+.messagebox input {
+	width: 350px;
+}
+}
+
+/* 375 size display end  */
